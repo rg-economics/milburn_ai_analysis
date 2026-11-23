@@ -1,0 +1,428 @@
+isco4,title,mu,sd,gradient
+4132,Data Entry Clerks,0.7,0.03,G4
+4131,Typists and Word Processing Operators,0.65,0.05,G4
+4311,Accounting and Bookkeeping Clerks,0.64,0.07,G4
+4312,"Statistical, Finance and Insurance Clerks",0.64,0.02,G4
+3311,Securities and Finance Dealers and Brokers,0.63,0.04,G4
+4419,Clerical Support Workers Not Elsewhere Classified,0.63,0.03,G4
+2413,Financial Analysts,0.62,0.06,G4
+4313,Payroll Clerks,0.61,0.08,G4
+5244,Contact Centre Salespersons,0.61,0.1,G4
+2513,Web and Multimedia Developers,0.6,0.08,G4
+3312,Credit and Loans Officers,0.6,0.04,G4
+4110,General Office Clerks,0.6,0.1,G4
+4416,Personnel Clerks,0.6,0.09,G4
+2643,"Translators, Interpreters and Other Linguists",0.59,0.11,G3
+4120,Secretaries (general),0.58,0.1,G3
+4211,Bank Tellers and Related Clerks,0.58,0.09,G3
+4222,Contact Centre Information Clerks,0.58,0.06,G3
+4414,Scribes and Related Workers,0.58,0.08,G3
+2412,Financial and Investment Advisers,0.57,0.11,G3
+2514,Applications Programmers,0.57,0.08,G3
+2521,Database Designers and Administrators,0.57,0.08,G3
+2522,Systems Aministrators,0.57,0.05,G3
+3314,"Statistical, Mathematical and Related Associate Professionals",0.57,0.1,G3
+3331,Clearing and Forwarding Aents,0.57,0.09,G3
+4225,Inquiry Clerks,0.57,0.09,G3
+4226,Receptionists (general),0.57,0.17,G3
+2120,"Mathematicians, Actuaries and Statisticians",0.56,0.09,G3
+4221,Travel Consultants and Clerks,0.56,0.07,G3
+2431,Advertising and Marketing Professionals,0.55,0.09,G3
+2519,Elsewhere Classified,0.55,0.16,G3
+2622,Librarians and Related Information Professionals,0.55,0.04,G3
+2631,Economists,0.55,0.08,G3
+2641,Authors and Related Writers,0.55,0.09,G3
+3342,Legal Secretaries,0.55,0.13,G3
+4227,Survey and Market Research Interviewers,0.55,0.16,G3
+2112,Meteorologists,0.54,0.13,G3
+2642,Journalists,0.54,0.1,G3
+3343,Administrative and Executive Secretaries,0.54,0.14,G3
+4223,Telephone Switchboard Operators,0.54,0.15,G3
+2512,Software Developers,0.53,0.07,G3
+3321,Insurance Representatives,0.53,0.12,G3
+3344,Medical Secretaries,0.53,0.11,G3
+3514,Web Technicians,0.53,0.12,G3
+2523,Computer Network Professionals,0.52,0.06,G3
+3252,Medical Records and Health Information Technicians,0.52,0.1,G3
+2411,Accountants,0.51,0.08,G3
+2434,Information and Communications Technology Sales Professionals,0.51,0.09,G3
+4224,Hotel Receptionists,0.51,0.07,G3
+4413,"Coding, Proofreading and Related Clerks",0.51,0.2,G3
+2433,Technical and Medical Sales Professionals (excluding ICT),0.5,0.1,G3
+4323,Transport Clerks,0.5,0.1,G3
+2166,Graphic and Multimedia Designers,0.49,0.09,G2
+2511,Systems Analysts,0.49,0.05,G2
+2529,Database and Network Professionals Not Elsewhere Classified,0.49,0.06,G2
+3313,Accounting Associate Professionals,0.49,0.13,G2
+3322,Commercial Sales Representatives,0.49,0.08,G2
+3352,Government Tax and Excise Officials,0.49,0.12,G2
+2153,Telecommunications Engineers,0.48,0.12,G2
+2632,"Sociologists, Anthropologists and Related Professionals",0.48,0.12,G2
+3332,Conference and Event Planners,0.48,0.14,G2
+4213,Pawnbrokers and Money-lenders,0.48,0.06,G2
+1346,Financial and Insurance Services Branch managers,0.47,0.12,G2
+2356,Information Technology Trainers,0.47,0.1,G2
+2621,Archivists and Curators,0.47,0.11,G2
+2633,"Philosophers, Historians and Political Scientists",0.47,0.06,G2
+2656,"Announcers on Radio, Television and Other Media",0.47,0.12,G2
+3512,Technicians,0.47,0.19,G2
+2421,Management and Organization Analysts,0.46,0.1,G2
+4411,Library Clerks,0.46,0.18,G2
+5243,Door-to-door Salespersons,0.46,0.18,G2
+2423,Personnel and Careers Professionals,0.45,0.07,G2
+3315,Valuers and Loss Assessors,0.45,0.19,G2
+3353,Government Social Benefits Officials,0.45,0.07,G2
+4212,"Bookmakers, Croupiers and Related Gaming Workers",0.45,0.19,G2
+1330,Information and Communications Technology Service Managers,0.44,0.07,G2
+1420,Retail and Wholesale Trade Managers,0.44,0.15,G2
+2165,Cartographers and Surveyors,0.44,0.12,G2
+3324,Trade Brokers,0.44,0.1,G2
+3339,Business Services Agents Not Elsewhere Classified,0.44,0.12,G2
+4322,Production Clerks,0.44,0.06,G2
+2432,Public Relations Professionals,0.43,0.09,G2
+3341,Office Supervisors,0.43,0.11,G2
+3354,Government Licensing Officials,0.43,0.07,G2
+3511,Technicians,0.43,0.13,G2
+3513,Computer Network and Systems Technicians,0.43,0.08,G2
+4214,Debt Collectors and Related Workers,0.43,0.07,G2
+5221,Shopkeepers,0.43,0.1,G2
+1219,Classified,0.42,0.1,G2
+2152,Electronics Engineers,0.42,0.13,G2
+4229,Client Information Workers Not Elsewhere Classified,0.42,0.13,G2
+5242,Sales Demonstrators,0.42,0.11,G2
+1221,Sales and Marketing Managers,0.41,0.09,G2
+2424,Training and Staff Development Professionals,0.41,0.09,G2
+4412,Mail Carriers and Sorting Clerks,0.41,0.15,G2
+2131,"Biologists, Botanists, Zoologists and Related Professionals",0.4,0.1,G2
+2351,Education Methods Specialists,0.39,0.11,G1
+2634,Psychologists,0.39,0.14,G1
+3411,Legal and Related Associate Professionals,0.39,0.14,G1
+3431,Photographers,0.39,0.12,G1
+5230,Cashiers and Ticket Clerks,0.39,0.14,G1
+2111,Physicists and Astronomers,0.38,0.14,G1
+3141,Life Science Technicians (excluding Medical),0.38,0.18,G1
+5223,Shop Sales Assistants,0.38,0.16,G1
+7321,Pre-press Technicians,0.38,0.22,G1
+9623,Meter Readers and Vending-machine Collectors,0.38,0.21,G1
+1411,Hotel Managers,0.37,0.13,G1
+3433,"Gallery, Museum and Library Technicians",0.37,0.2,G1
+4415,Filing and Copying Clerks,0.37,0.17,G1
+9621,"Messengers, Package Deliverers and Luggage Porters",0.37,0.19,G1
+3256,Medical Assistants,0.35,0.23,G1
+5211,Stall and Market Salespersons,0.35,0.17,G1
+8322,"Car, Taxi and Van Drivers",0.28,0.23,G1
+3522,Telecommunications Engineering Technicians,0.45,0.04,None
+2422,Policy Administration Professionals,0.42,0.06,None
+2164,Town and Traffic Planners,0.41,0.06,None
+2265,Dieticians and Nutritionists,0.41,0.07,None
+1223,Research and Development Managers,0.4,0.06,None
+1222,Advertising and Public Relations Managers,0.39,0.05,None
+2113,Chemists,0.39,0.1,None
+3323,Buyers,0.39,0.08,None
+3333,Employment agents and contractors,0.39,0.09,None
+1112,Senior Government Officials,0.38,0.08,None
+1120,Managing Directors and Chief Executives,0.38,0.06,None
+1321,Manufacturing Managers,0.38,0.11,None
+1324,"Supply, Distribution and Related Managers",0.38,0.05,None
+1349,Professional Services Managers Not Elsewhere Classified,0.38,0.07,None
+2133,Environmental Protection Professionals,0.38,0.04,None
+2143,Environmental Engineers,0.38,0.07,None
+3114,Electronics Engineering Technicians,0.38,0.11,None
+1114,Senior Officials of Special-interest Organizations,0.37,0.06,None
+1211,Finance Managers,0.37,0.04,None
+1344,Social Welfare Managers,0.37,0.07,None
+2141,Industrial and Production Engineers,0.37,0.07,None
+2161,Building Architects,0.37,0.08,None
+2162,Landscape Architects,0.37,0.08,None
+2310,University and Higher Education Teachers,0.37,0.12,None
+2619,Legal Professionals Not Elsewhere Classified,0.37,0.09,None
+2654,"Film, Stage and Related Directors and Producers",0.37,0.07,None
+3422,"Sports Coaches, Instructors and Officials",0.37,0.12,None
+3432,Interior Designers and Decorators,0.37,0.08,None
+4321,Stock Clerks,0.37,0.06,None
+1212,Human Resource Managers,0.36,0.05,None
+1342,Health Service Managers,0.36,0.05,None
+1345,Education Managers,0.36,0.1,None
+1412,Restaurant Managers,0.36,0.12,None
+2114,Geologists and geophysicists,0.36,0.1,None
+2611,Lawyers,0.36,0.09,None
+3359,Classified,0.36,0.1,None
+5222,Shop Supervisors,0.36,0.12,None
+1322,Mining Managers,0.35,0.11,None
+2145,Chemical Engineers,0.35,0.12,None
+2163,Product and Garment Designers,0.35,0.09,None
+2320,Vocational Education Teachers,0.35,0.12,None
+2354,Other Music Teachers,0.35,0.09,None
+2355,Other Arts Teachers,0.35,0.1,None
+3118,Draughtspersons,0.35,0.11,None
+3122,Manufacturing Supervisors,0.35,0.13,None
+3334,Real Estate Agents and Property Managers,0.35,0.09,None
+3521,Broadcasting and Audio-visual Technicians,0.35,0.11,None
+1323,Construction Managers,0.34,0.06,None
+1343,Aged Care Service Managers,0.34,0.09,None
+2353,Other Language Teachers,0.34,0.11,None
+3155,Air Traffic Safety Electronics Technicians,0.34,0.1,None
+2262,Pharmacists,0.33,0.09,None
+2359,Teaching Professionals Not Elsewhere Classified,0.33,0.1,None
+3412,Social Work Associate Professionals,0.33,0.13,None
+1431,"Sports, Recreation and Cultural Centre Managers",0.32,0.1,None
+2230,Traditional and Complementary Medicine Professionals,0.32,0.11,None
+3351,Customs and Border Inspectors,0.32,0.14,None
+5113,Travel Guides,0.32,0.11,None
+8219,Assemblers Not Elsewhere Classified,0.32,0.17,None
+2655,Actors,0.31,0.15,None
+3135,Metal Production Process Controllers,0.31,0.13,None
+3154,Air Traffic Controllers,0.31,0.09,None
+3212,Medical and Pathology Laboratory Technicians,0.31,0.16,None
+7515,Food and Beverage Tasters and Graders,0.31,0.16,None
+7543,Product Graders and Testers (except Foods and Beverages),0.31,0.11,None
+1341,Child Care Service Managers,0.3,0.15,None
+2222,Midwifery Professionals,0.3,0.15,None
+3213,Pharmaceutical Technicians and Assistants,0.3,0.12,None
+3259,Health Associate Professionals Not Elsewhere Classified,0.3,0.15,None
+5161,"Astrologers, Fortune-tellers and Related Workers",0.3,0.16,None
+9629,Elementary Workers Not Elsewhere Classified,0.29,0.14,None
+2264,Physiotherapists,0.28,0.14,None
+5131,Waiters,0.28,0.16,None
+8171,Pulp and Papermaking Plant Operators,0.28,0.14,None
+8212,Electrical and Electronic Equipment Assemblers,0.28,0.19,None
+1311,Agricultural and Forestry Production Managers,0.27,0.13,None
+5153,Building Caretakers,0.27,0.16,None
+8211,Mechanical Machinery Assemblers,0.27,0.17,None
+5112,Transport Conductors,0.25,0.17,None
+5322,Home-based Personal Care Workers,0.25,0.18,None
+8321,Motorcycle Drivers,0.25,0.17,None
+5245,Service Station Attendants,0.24,0.16,None
+8332,Heavy Truck and Lorry Drivers,0.24,0.22,None
+3221,Nursing Associate Professionals,0.22,0.21,None
+1213,Policy and Planning Managers,0.36,0.04,None
+2144,Mechanical Engineers,0.32,0.07,None
+3116,Chemical Engineering Technicians,0.32,0.02,None
+1111,Legislators,0.31,0.04,None
+2151,Electrical Engineers,0.31,0.08,None
+2612,Judges,0.31,0.08,None
+2142,Civil Engineers,0.3,0.06,None
+2149,Engineering Professionals Not Elsewhere Classified,0.3,0.08,None
+2330,Secondary Education Teachers,0.3,0.07,None
+2132,"Farming, Forestry and Fisheries Advisers",0.29,0.1,None
+2146,"Mining Engineers, Metallurgists and Related Professionals",0.29,0.05,None
+2211,Generalist Medical Practitioners,0.29,0.1,None
+3121,Mining Supervisors,0.29,0.08,None
+3133,Chemical Processing Plant Controllers,0.29,0.1,None
+3134,Petroleum and Natural Gas Refining Plant Operators,0.29,0.11,None
+3152,Ships' Deck Officers and Pilots,0.29,0.11,None
+2263,Professionals,0.28,0.05,None
+2352,Special Needs Teachers,0.28,0.1,None
+2635,Social Work and Counselling Professionals,0.28,0.1,None
+2652,"Musicians, Singers and Composers",0.28,0.09,None
+3112,Civil Engineering Technicians,0.28,0.07,None
+3117,Mining and metallurgical technicians,0.28,0.06,None
+3123,Construction Supervisors,0.28,0.06,None
+3131,Power Production Plant Operators,0.28,0.11,None
+2212,Specialist Medical Practitioners,0.27,0.12,None
+3113,Electrical Engineering Technicians,0.27,0.05,None
+3132,Incinerator and Water Treatment Plant Operators,0.27,0.09,None
+3153,Aircraft Pilots and Related Associate Professionals,0.27,0.05,None
+8132,Photographic Products Machine Operators,0.27,0.06,None
+2341,Primary School Teachers,0.26,0.09,None
+3111,Chemical and Physical Science Technicians,0.26,0.09,None
+3115,Mechanical Engineering Technicians,0.26,0.08,None
+3119,Classified,0.26,0.05,None
+3142,Agricultural Technicians,0.26,0.09,None
+5132,Bartenders,0.26,0.12,None
+8121,Metal Processing Plant Operators,0.26,0.1,None
+2221,Nursing Professionals,0.25,0.13,None
+3423,Fitness and Recreation Instructors and Programme Leaders,0.25,0.07,None
+3434,Chefs,0.25,0.06,None
+5241,Fashion and Other Models,0.25,0.06,None
+7322,Printers,0.25,0.11,None
+7421,Electronics Mechanics and Servicers,0.25,0.13,None
+2266,Audiologists and Speech Therapists,0.24,0.04,None
+2267,Optometrists and Ophthalmic Opticians,0.24,0.07,None
+3254,Dispensing Opticians,0.24,0.07,None
+3257,Associates,0.24,0.04,None
+5246,Food Service Counter Attendants,0.24,0.13,None
+5312,Teachers' Aides,0.24,0.14,None
+7422,Servicers,0.24,0.14,None
+8131,Chemical Products Plant and Machine Operators,0.24,0.07,None
+1113,Traditional Chiefs and Heads of Villages,0.23,0.1,None
+2240,Paramedical Practitioners,0.23,0.13,None
+3151,Ships' Engineers,0.23,0.05,None
+3355,Police Inspectors and Detectives,0.23,0.07,None
+3421,Athletes and Sports Players,0.23,0.11,None
+8114,"Cement, Stone and Other Mineral Products Machine Operators",0.23,0.11,None
+1312,Aquaculture and Fisheries Production Managers,0.22,0.08,None
+3211,Medical Imaging and Therapeutic Equipment Technicians,0.22,0.03,None
+3253,Community Health Workers,0.22,0.08,None
+3258,Ambulance Workers,0.22,0.17,None
+5111,Travel Attendants and Travel Stewards,0.22,0.1,None
+5151,Other Establishments,0.22,0.1,None
+5162,Companions and Valets,0.22,0.05,None
+5212,Street Food Salespersons,0.22,0.11,None
+6123,Apiarists and Sericulturists,0.22,0.11,None
+6221,Aquaculture Workers,0.22,0.15,None
+7323,Print Finishing and Binding Workers,0.22,0.09,None
+7513,Dairy Products Makers,0.22,0.17,None
+7521,Wood Treaters,0.22,0.15,None
+7523,Woodworking Machine Tool Setters and Operators,0.22,0.16,None
+8183,"Packing, Bottling and Labelling Machine Operators",0.22,0.01,None
+2342,Early Childhood Educators,0.21,0.05,None
+2651,Visual Artists,0.21,0.04,None
+3143,Forestry Technicians,0.21,0.07,None
+5169,Personal Services Workers Not Elsewhere Classified,0.21,0.07,None
+7127,Air Conditioning and Refrigeration Mechanics,0.21,0.11,None
+7213,Sheet Metal Workers,0.21,0.09,None
+7311,Precision-instrument Makers and Repairers,0.21,0.08,None
+8112,Mineral and Stone Processing Plant Operators,0.21,0.1,None
+8154,"Bleaching, Dyeing and Fabric Cleaning Machine Operators",0.21,0.15,None
+9331,Hand and Pedal Vehicle Drivers,0.21,0.08,None
+2269,Health Professionals Not Elsewhere Classified,0.2,0.08,None
+3222,Midwifery Associate Professionals,0.2,0.07,None
+5152,Domestic Housekeepers,0.2,0.1,None
+5165,Driving Instructors,0.2,0.03,None
+5414,Security Guards,0.2,0.09,None
+5419,Protective Services Workers Not Elsewhere Classified,0.2,0.05,None
+6129,Animal Producers Not Elsewhere Classified,0.2,0.14,None
+7222,Toolmakers and Related Workers,0.2,0.1,None
+8122,"Metal Finishing, Plating and Coating Machine Operators",0.2,0.04,None
+8182,Steam Engine and Boiler Operators,0.2,0.04,None
+8311,Locomotive Engine Drivers,0.2,0.08,None
+8344,Lifting Truck Operators,0.2,0.1,None
+9321,Hand Packers,0.2,0.05,None
+9334,Shelf Fillers,0.2,0.1,None
+9520,Street Vendors (excluding Food),0.2,0.1,None
+2653,Dancers and Choreographers,0.19,0.1,None
+3230,Traditional and Complementary Medicine Associate Professionals,0.19,0.11,None
+5311,Child Care Workers,0.19,0.09,None
+6122,Poultry Producers,0.19,0.1,None
+6130,Mixed Crop and Animal Producers,0.19,0.11,None
+7232,Aircraft Engine Mechanics and Repairers,0.19,0.07,None
+7315,"Glass Makers, Cutters, Grinders and Finishers",0.19,0.06,None
+7411,Building and Related Electricians,0.19,0.06,None
+8113,Well Drillers and Borers and Related Workers,0.19,0.12,None
+3214,Medical and Dental Prosthetic Technicians,0.18,0.05,None
+5120,Cooks,0.18,0.06,None
+5142,Beauticians and Related Workers,0.18,0.19,None
+5411,Fire Fighters,0.18,0.1,None
+6111,Field Crop and Vegetable Growers,0.18,0.12,None
+6113,"Gardeners, Horticultural and Nursery Growers",0.18,0.11,None
+6223,Deep-sea Fishery Workers,0.18,0.07,None
+7126,Plumbers and Pipe Fitters,0.18,0.1,None
+7223,Metal Working Machine Tool Setters and Operators,0.18,0.05,None
+7231,Motor Vehicle Mechanics and Repairers,0.18,0.04,None
+7313,Jewellery and Precious Metal Workers,0.18,0.05,None
+7314,Potters and Related Workers,0.18,0.07,None
+7316,"Sign Writers, Decorative Painters, Engravers and Etchers",0.18,0.08,None
+7534,Upholsterers and Related Workers,0.18,0.09,None
+8141,Rubber Products Machine Operators,0.18,0.05,None
+8143,Paper Products Machine Operators,0.18,0.02,None
+8331,Bus and Tram Drivers,0.18,0.06,None
+8343,"Crane, hoist and related plant operators",0.18,0.03,None
+9411,Fast Food Preparers,0.18,0.05,None
+9510,Street and Related Service Workers,0.18,0.09,None
+9612,Refuse Sorters,0.18,0.11,None
+2636,Religious Professionals,0.17,0.12,None
+3255,Physiotherapy Technicians and Assistants,0.17,0.07,None
+5141,Hairdressers,0.17,0.18,None
+5163,Undertakers and Embalmers,0.17,0.17,None
+6112,Tree and Shrub Crop Growers,0.17,0.11,None
+6114,Mixed Crop Growers,0.17,0.12,None
+6121,Livestock and Dairy Producers,0.17,0.1,None
+6222,Inland and Coastal Waters Fishery Workers,0.17,0.1,None
+7221,"Blacksmiths, Hammersmiths and Forging Press Workers",0.17,0.05,None
+7224,"Metal Polishers, Wheel Grinders and Tool Sharpeners",0.17,0.05,None
+7233,Agricultural and Industrial Machinery Mechanics and Repairers,0.17,0.04,None
+7412,Electrical Mechanics and Fitters,0.17,0.05,None
+7512,"Bakers, Pastry-cooks and Confectionery Makers",0.17,0.08,None
+7532,Garment and Related Patternmakers and Cutters,0.17,0.04,None
+7536,Shoemakers and Related Workers,0.17,0.06,None
+8111,Miners and Quarriers,0.17,0.11,None
+8142,Plastic Products Machine Operators,0.17,0.05,None
+8181,Glass and Ceramics Plant Operators,0.17,0.06,None
+8312,"Railway Brake, Signal and Switch Operators",0.17,0.04,None
+3251,Dental Assistants and Therapists,0.16,0.1,None
+7522,Cabinet-makers and Related Workers,0.16,0.06,None
+7541,Underwater Divers,0.16,0.09,None
+8152,Weaving and Knitting Machine Operators,0.16,0.03,None
+8156,Shoemaking and Related Machine Operators,0.16,0.02,None
+8157,Laundry Machine Operators,0.16,0.03,None
+8159,Elsewhere Classified,0.16,0.01,None
+2261,Dentists,0.15,0.06,None
+5329,Classified,0.15,0.03,None
+7413,Electrical Line Installers and Repairers,0.15,0.08,None
+7514,"Fruit, Vegetable and Related Preservers",0.15,0.04,None
+7531,"Tailors, Dressmakers, Furriers and Hatters",0.15,0.05,None
+8151,"Fibre Preparing, Spinning and Winding Machine Operators",0.15,0.02,None
+8153,Sewing Machine Operators,0.15,0.03,None
+8155,Fur and Leather Preparing Machine Operators,0.15,0.02,None
+8160,Food and Related Products Machine Operators,0.15,0.03,None
+2250,Veterinarians,0.14,0.05,None
+3240,Veterinary Technicians and Assistants,0.14,0.02,None
+5164,Pet Groomers and Animal Care Workers,0.14,0.06,None
+5321,Health Care Assistants,0.14,0.06,None
+5412,Police Officers,0.14,0.03,None
+5413,Prison Guards,0.14,0.04,None
+7111,House Builders,0.14,0.07,None
+7125,Glaziers,0.14,0,None
+7312,Musical Instrument Makers and Tuners,0.14,0.02,None
+7317,"Handicraft Workers in Wood, Basketry and Related Materials",0.14,0.01,None
+7516,Tobacco Preparers and Tobacco Products Makers,0.14,0.06,None
+7549,Craft and Related Workers not Elsewhere Classified,0.14,0.01,None
+8172,Wood Processing Plant Operators,0.14,0.05,None
+8350,Ships' Deck Crews and Related Workers,0.14,0.02,None
+9111,Domestic Cleaners and Helpers,0.14,0.08,None
+9121,Hand Launderers and Pressers,0.14,0.03,None
+9333,Freight Handlers,0.14,0.03,None
+2659,Creative and Performing Artists Not Elsewhere Classified,0.13,0.06,None
+6310,Subsistence Crop Farmers,0.13,0.05,None
+6320,Subsistence Livestock Farmers,0.13,0.04,None
+7115,Carpenters and Joiners,0.13,0.02,None
+7121,Roofers,0.13,0.08,None
+7124,Insulation Workers,0.13,0.02,None
+7131,Painters and Related Workers,0.13,0.04,None
+7211,Metal Moulders and Coremakers,0.13,0.01,None
+7212,Welders and Flame Cutters,0.13,0.05,None
+7215,Riggers and Cable Splicers,0.13,0.03,None
+7234,Bicycle and Related Repairers,0.13,0.02,None
+7318,"Handicraft Workers in Textile, Leather and Related Materials",0.13,0.03,None
+7511,"Butchers, Fishmongers and Related Food Preparers",0.13,0.03,None
+7544,Fumigators and Other Pest and Weed Controllers,0.13,0.04,None
+8342,Earthmoving and Related Plant Operators,0.13,0.02,None
+9332,Drivers of Animal-drawn Vehicles and Machinery,0.13,0.08,None
+9412,Kitchen Helpers,0.13,0.02,None
+3413,Religious Associate Professionals,0.12,0.07,None
+6210,Forestry and Related Workers,0.12,0.05,None
+6330,Subsistence Mixed Crop and Livestock Farmers,0.12,0.05,None
+6340,"Subsistence Fishers, Hunters, Trappers and Gatherers",0.12,0.05,None
+7132,Spray Painters and Varnishers,0.12,0,None
+7533,"Sewing, Embroidery and Related Workers",0.12,0.02,None
+7542,Shotfirers and Blasters,0.12,0.05,None
+8341,Mobile Farm and Forestry Plant Operators,0.12,0.03,None
+9112,"Cleaners and Helpers in Offices, Hotels and Other Establishments",0.12,0.02,None
+9212,Livestock Farm Labourers,0.12,0.03,None
+9214,Garden and Horticultural Labourers,0.12,0.02,None
+9329,Manufacturing Labourers Not Elsewhere Classified,0.12,0.02,None
+7113,"Stonemasons, Stone Cutters, Splitters and Carvers",0.11,0.02,None
+7123,Plasterers,0.11,0.01,None
+7214,Structural Metal Preparers and Erectors,0.11,0.02,None
+7535,"Pelt Dressers, Tanners and Fellmongers",0.11,0.03,None
+9123,Window Cleaners,0.11,0.03,None
+9213,Mixed Crop and Livestock Farm Labourers,0.11,0.03,None
+9216,Fishery and Aquaculture Labourers,0.11,0.03,None
+9311,Mining and Quarrying Labourers,0.11,0.02,None
+9622,Odd Job Persons,0.11,0.03,None
+7114,"Concrete Placers, Concrete Finishers and Related Workers",0.1,0.03,None
+7122,Floor Layers and Tile Setters,0.1,0.02,None
+9129,Other Cleaning Workers,0.1,0.01,None
+6224,Hunters and Trappers,0.09,0.03,None
+7112,Bricklayers and Related Workers,0.09,0.01,None
+7119,Classified,0.09,0.01,None
+7133,Building Structure Cleaners,0.09,0.01,None
+9122,Vehicle Cleaners,0.09,0.01,None
+9211,Crop Farm Labourers,0.09,0.02,None
+9215,Forestry Labourers,0.09,0.02,None
+9312,Civil Engineering Labourers,0.09,0.02,None
+9313,Building Construction Labourers,0.09,0.02,None
+9611,Garbage and Recycling Collectors,0.09,0.02,None
+9613,Sweepers and Related Labourers,0.09,0.03,None
+9624,Water and Firewood Collectors,0.09,0.03,None

@@ -1,0 +1,10 @@
+scenario,variant,neet_no_reform_p50,neet_no_reform_p10,neet_no_reform_p90,neet_package_p50,neet_package_p10,neet_package_p90,extra_neet_vs_milburn_baseline_k,extra_neet_vs_milburn_reform_k,neet30_no_reform_p50
+S1 Slow Burn,base,13.5,13.4,13.7,7,6.8,7.2,8,15,12.9
+S2 Open Frontier,base,13.6,13.4,14,7.1,6.9,7.5,16,23,12.9
+S3 Augmented Growth,base,13.1,12.8,13.3,6.4,6,6.7,-22,-30,12.7
+S4 Transformation Economy,jobs_only,15.4,14.5,17,9.4,8.2,11.5,152,196,13.7
+S4 Transformation Economy,slump_fade,16.3,15.5,17.2,10.5,9.6,11.7,219,279,14.5
+S4 Transformation Economy,slump_held,18.2,17.1,18.8,12.9,11.5,13.7,363,460,14.5
+S5 Take-Off,jobs_only,15.6,14.6,17.2,9.6,8.4,11.7,167,211,14.1
+S5 Take-Off,slump_fade,17.5,16.7,18.5,12.2,11,13.4,310,407,15.8
+S5 Take-Off,slump_held,22.3,19.7,24.1,17.8,14.7,20,672,829,15.8

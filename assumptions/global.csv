@@ -1,0 +1,26 @@
+param,central,low,high,source
+A0,0.25,0.25,0.25,"Share of firms using AI in 2026: around one in four (GO-Science AI Scenarios 2030 p54, citing DSIT/ONS 2026). The model measures AI change relative to this level"
+G_anchor,0.20,0.10,0.30,"Cut in youth job openings (vacancies) in a fully exposed occupation at today's level of AI use, compared with no AI. Hires fall by less (roughly alpha times this). Informed by Stanford's 19% employment gap for 22-25 year olds (Brynjolfsson et al. 2026) and KCL's 23.4% fall in postings for highly exposed roles (Klein Teeselink 2025, all ages). Range 10-30%. Scales in a straight line with the share of firms using AI. RG judgement"
+alpha,0.5,0.3,0.7,How strongly hires respond to the number of job openings (the elasticity in a standard Cobb-Douglas matching function). The range 0.3-0.7 is RG judgement around the commonly used value of 0.5. It is the single most important assumption for the size of the post-2030 effects
+sigma_sep,0.25,0.10,0.50,How much job losses among existing workers respond compared with the cut in hiring. Below 1 because current evidence shows firms adjust through hiring rather than letting people go (Stanford Canaries Aug 2026; GO-Science p56)
+s_w_G4,1.0,1.0,1.0,"Weight of ILO Gradient 4 (high, consistent exposure) in the 'AI replaces work' score (ILO WP140 Table 5)"
+s_w_G3,0.5,0.5,0.5,Weight of ILO Gradient 3 in the 'AI replaces work' score (split 50/50 with the 'AI helps with work' score)
+c_w_G1,1.0,1.0,1.0,"Weight of ILO Gradient 1 (low average exposure, tasks vary a lot) in the 'AI helps with work' score"
+c_w_G2,1.0,1.0,1.0,Weight of ILO Gradient 2 in the 'AI helps with work' score
+c_w_G3,0.5,0.5,0.5,Weight of ILO Gradient 3 in the 'AI helps with work' score
+ed_exit_to_U,0.6,0.6,0.6,Share of education leavers who don't find work straight away and become unemployed (the rest become inactive). RG assumption
+ret_ed_U,0.020,0.020,0.020,Share of unemployed young people who go back into education each quarter. RG assumption
+ret_ed_I,0.015,0.015,0.015,Share of inactive young people who go back into education each quarter. RG assumption
+ret_ed_E,0.005,0.005,0.005,Share of employed young people who go back into education each quarter. RG assumption
+ed_share_23_24,0.12,0.12,0.12,"Share of 23-24 year olds in education, used only to work out who leaves the model at 25. RG assumption"
+policy_educ_share,0.12,0.12,0.12,"Starting value only: the education share is fitted in 03_run.R so that, with no AI change, Milburn's package puts milburn_into_work_k young people into work. Annex s.2: around 500,000 more in employment and education and around 400,000 more in work (rounded to 100,000); s.4 and s.8 use 440,000 in work. Sensitivities use 12%, 20% and 36% (education's share of the costs)"
+milburn_into_work_k,440,440,440,"Young people Milburn's package moves into work by 2036/37, thousands (analytical annex s.4 and s.8; report para 111)"
+policy_demand_share,0.30,0.20,0.40,"Share of the into-work effect that comes from hiring subsidies (the rest comes from job support). Central value is the cost share 1.1/(1.1+1.9+0.7) from Milburn's costings (annex Table 1), because Milburn does not publish NEET effects by policy. RG assumption"
+pass_threshold,0.80,0.80,0.80,"AI-proofing test: a policy passes if it keeps at least this share of its no-AI effect in every scenario, judged at the median run and at the 10th percentile run"
+n_draws,2000,2000,2000,Monte Carlo runs per scenario
+piE_leaver,0.5,0.5,0.5,Share of education leavers who go straight into work under normal conditions. RG assumption; to be replaced with LFS longitudinal data
+beta_takeup,0.5,0.0,1.0,How much take-up of subsidised youth hires falls when job openings fall (0 = no change whatever happens; 1 = falls one-for-one with openings). RG judgement
+edp_spell_q,4,2,8,"Average length, in quarters, of a Milburn-funded education or training place (4 = one year; sensitivity 8). When it ends, the learner looks for work like any other education leaver. RG assumption"
+slump_start,2029,2029,2029,"Year the slump in Transformation Economy and Take-Off starts to build (GO-Science: AI reaches human level 'from 2029'). It reaches full size by mid-2030"
+slump_max,0.85,0.85,0.85,Largest extra fall in youth job openings allowed when sizing the slump. Runs that would need more are dropped and counted
+seed,20261118,20261118,20261118,Random seed

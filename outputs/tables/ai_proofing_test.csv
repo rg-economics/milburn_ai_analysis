@@ -1,0 +1,13 @@
+set,lever,worst_p10,worst_p50,worst_scenario,passes_strict_p10,passes_median
+AI in jobs only,"Activation, health and welfare (supply)",0.7927947270322533,0.8837201805985235,S5 Take-Off,FALSE,TRUE
+AI in jobs only,Education and training places,0.8879988474850096,0.9424670018062731,S5 Take-Off,TRUE,TRUE
+AI in jobs only,Full package,0.8334753079024353,0.9058058390040058,S5 Take-Off,TRUE,TRUE
+AI in jobs only,Subsidised youth hires (demand),0.8482131173580729,0.9317375960950238,S5 Take-Off,TRUE,TRUE
+With fading slump in S4/S5,"Activation, health and welfare (supply)",0.7093376408090307,0.7688486107653388,S5 Take-Off,FALSE,FALSE
+With fading slump in S4/S5,Education and training places,0.8426457821290664,0.8842924849125239,S5 Take-Off,TRUE,TRUE
+With fading slump in S4/S5,Full package,0.7658496254545987,0.8147609108736918,S5 Take-Off,FALSE,TRUE
+With fading slump in S4/S5,Subsidised youth hires (demand),0.744584299625378,0.8663504276886943,S5 Take-Off,FALSE,TRUE
+With held slump in S4/S5,"Activation, health and welfare (supply)",0.5296563349526439,0.5948265626965034,S5 Take-Off,FALSE,FALSE
+With held slump in S4/S5,Education and training places,0.7522957281206568,0.7957238183868076,S5 Take-Off,FALSE,FALSE
+With held slump in S4/S5,Full package,0.5974493907456336,0.6758550117274389,S5 Take-Off,FALSE,FALSE
+With held slump in S4/S5,Subsidised youth hires (demand),0.43118624072434564,0.7338922438692729,S5 Take-Off,FALSE,FALSE

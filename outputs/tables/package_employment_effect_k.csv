@@ -1,0 +1,11 @@
+scenario,variant,emp_effect_p50,emp_effect_p10,emp_effect_p90
+No AI change,none,440,NA,NA
+S1 Slow Burn,base,436,425,449
+S2 Open Frontier,base,433,423,447
+S3 Augmented Growth,base,447,431,469
+S4 Transformation Economy,jobs_only,392,365,409
+S4 Transformation Economy,slump_fade,369,356,383
+S4 Transformation Economy,slump_held,338,307,367
+S5 Take-Off,jobs_only,388,361,408
+S5 Take-Off,slump_fade,339,321,359
+S5 Take-Off,slump_held,266,220,318

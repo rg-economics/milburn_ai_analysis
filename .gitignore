@@ -1,0 +1,4 @@
+outputs/tables/mc_draws.rds
+outputs/run_log.txt
+.Rhistory
+.RData

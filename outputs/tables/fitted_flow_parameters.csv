@@ -1,0 +1,6 @@
+param,value,meaning
+ksep,0.4051496841965356,youth multiplier on all-age E->U and E->I hazards
+xexit,0.05492197765715812,"quarterly exit hazard from education (all learners, not funded places)"
+kfind,0.6056214447886799,youth multiplier on all-age U->E and I->E hazards
+kui,0.20912121152519048,youth multiplier on all-age U->I hazard
+fit_objective,3.522389209432743e-4,sum of squared relative errors in steady-state stocks
