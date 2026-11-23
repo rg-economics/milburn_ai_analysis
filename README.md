@@ -71,4 +71,6 @@ Everything you might want to change is in `assumptions/`:
 See `DATA_LICENCES.md`. All raw data is public and included in `data/raw`.
 
 ## Licence
-Code © RG Economics Ltd. Please cite as: RG Economics (2026), *Is the Milburn Review AI proof?*, https://www.rg-economics.com/milburn-review
+The code is released under the MIT licence (see `LICENSE`). You can use, change and share it as long as you keep the copyright notice. The data in `data/raw` keeps its own licences (see `DATA_LICENCES.md`).
+
+Please cite as: RG Economics (2026), *Is the Milburn Review AI proof?*, https://www.rg-economics.com/milburn-review
